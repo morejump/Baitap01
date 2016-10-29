@@ -84,7 +84,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                     txtTongTien.setText("$"+tongTien);
                 }
                 else {
-                    Toast.makeText(this, "Chỉ được bo 100 thui cậu ơi :))", Toast.LENGTH_SHORT).show();
+                    Toast.makeText(this, "Chỉ được bo 100% thui cậu ơi :))", Toast.LENGTH_SHORT).show();
                 }
                 break;
             }
